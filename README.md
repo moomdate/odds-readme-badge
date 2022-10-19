@@ -1,4 +1,5 @@
 <p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
+<p align="center"><img src="https://odds-readme-badge-rainbow.vercel.app/api" /></p>
 
 # ODDS README Badge
 
@@ -10,6 +11,7 @@ Put this code to your markdown content:
 
 ```html
 <p align="center"><img src="https://odds-readme-badge.vercel.app/api" /></p>
+<p align="center"><img src="https://odds-readme-badge-rainbow.vercel.app/api" /></p>
 ```
 
 Contributions are welcomes!
