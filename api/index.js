@@ -31,7 +31,7 @@ export default function handler(request, response) {
   </defs>
   <rect width="100%" height="100%" fill="white"/>
   <text x="47%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="url(#gradient)" font-size="6rem" class="text">ODDS</text>
-  <rect x="77%" y="16%" width="11" height="55%" class="indicator" fill="url(#gradient)"/>
+  <rect x="77%" y="16%" width="9" height="55%" class="indicator" fill="url(#gradient)"/>
 </svg>
 
   `;
