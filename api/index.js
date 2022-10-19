@@ -13,7 +13,7 @@ export default function handler(request, response) {
         animation-iteration-count: infinite;
       }
       .text {
-        font-family: &apos;Helvetica&apos;, sans-serif;
+        font-family: 'Helvetica', sans-serif;
       }
   </style>
   <defs>
